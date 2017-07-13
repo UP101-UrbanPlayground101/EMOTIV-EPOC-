@@ -1,2 +1,2 @@
-# EMOTIV-EPOC-
+# My EEG Machine
 EEG GUI Interpreter
